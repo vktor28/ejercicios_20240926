@@ -1,0 +1,4 @@
+digital@MacBook-Air-de-victor 20240926_3 % git log --oneline
+e49be43 (HEAD -> master, origin/master) 2. Segundo commit, ahora hay contenido
+ec7970e 1. Primer Commit
+digital@MacBook-Air-de-victor 20240926_3 % 
